@@ -1,0 +1,19 @@
+segment_sources:
+  I24FFEB54:
+    type: origin_type
+    relation: translation
+    language: en
+  I7F64E815:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2607bdd7c5904454ab6f87747dc60b87:
+    I24FFEB54: ed537306515149b9b4aa02ce5e17ec40
+    I7F64E815: 678f0c071f1547f489b7ad4027bb7283
+  072fe25a469d48fdbd081cfe78c15d2d:
+    I24FFEB54: 10e0e2c7b48343ee952ae8128f789504
+    I7F64E815: 262105782c664582a95304b2411fa44a
+  d7bbdce6f1f94f03b05f3ee7900e1941:
+    I24FFEB54: 90bbdb459e07402dbec355b1f13a3a4e
+    I7F64E815: bb2a82ec47b24566b5bf9fbf9482504c

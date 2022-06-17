@@ -1,0 +1,26 @@
+segment_sources:
+  I24FFEB54:
+    type: origin_type
+    relation: translation
+    language: en
+  I845D375D:
+    type: origin_type
+    relation: translation
+    language: pt
+  I7F64E815:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7e2f17c77ab0424ead9f68865e8fcb99:
+    I24FFEB54: adedebec8d8d434587b59a3cbd973512
+    I845D375D: df892262a6a040efa59285c3e6a9c2da
+    I7F64E815: 31f3c0ecb9c44406a58fa9d6502c5587
+  999ccc603b5340d88dd36f4434e6494c:
+    I24FFEB54: cc577b61b97b4601b07100d7974d9441
+    I845D375D: aa4aa825c22f42c694fc5129bfa0e96e
+    I7F64E815: 8282ac7093584baca820de2c8b7114b3
+  80944f6bb45e405babfc78eed18dc4e6:
+    I24FFEB54: b843b4cfa8fd40e2befce8425f913bc0
+    I845D375D: f33f33bafc134857b5381610353e8789
+    I7F64E815: b6992161a18d44bfaef54ed616481e7d
